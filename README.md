@@ -16,9 +16,10 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=tewarig)
 
 ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=tewarig&show_icons=true&hide_border=true)
+![](https://komarev.com/ghpvc/?username=tewarig)
+
 
 <br>
 
