@@ -19,6 +19,13 @@
 
 ![Gaurav's github stats](https://github-readme-stats.vercel.app/api?username=tewarig&show_icons=true&hide_border=true)
 
+<p align="center">
+<a href="https://github.com/tewarig">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tewarig&theme=vue&show_icons=true&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tewarig&theme=vue&layout=compact" />
+</a>
+</p>
+
 
 <br>
 
