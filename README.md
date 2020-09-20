@@ -29,8 +29,6 @@
 <br />
 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/oyetewari?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foyetewari&screen_name=oyetewari)
-<br>
 
 
 <p align="center">
@@ -46,7 +44,7 @@
   <a href="https://in.linkedin.com/in/01gauravtewari/">
     <img align="left" alt="Gaurav Tewari | Linkedin" width="24px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Linkedin.svg" />
   </a>
-  <a href="https://twitter.com/gaurav_Tewari_">
+  <a href="https://twitter.com/oyetewari">
     <img align="left" alt="Gaurav Tewari | Twitter" width="26px" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Twitter.svg" />
   </a>
  
@@ -56,4 +54,7 @@
 
 <br><br><br><br>
 ![](https://komarev.com/ghpvc/?username=tewaig)
+
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/oyetewari?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foyetewari&screen_name=oyetewari)
 
