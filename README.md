@@ -25,9 +25,9 @@
 <img align="left" alt="Python" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" />
 <img align="left" alt="Linux" width="50px" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
 <img align="left" alt="Node.js" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<br/>
 <br />
 
----
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/oyetewari?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Foyetewari&screen_name=oyetewari)
 <br>
