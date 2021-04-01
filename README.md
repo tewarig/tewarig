@@ -11,6 +11,7 @@
     <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
+    also, i want to earn a lot of money.. so i can buy a t.v
 </p>
 ### Languages and Tools:
  <hr/>
