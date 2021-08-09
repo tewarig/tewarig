@@ -12,7 +12,7 @@
     <b>excel.</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">
   </em>  
     <br/>.
-    also, i want to earn a lot of money.. so i can buy a macbook air
+<!--     also, i want to earn a lot of money.. so i can buy a macbook air -->
 </p>
 ### Languages and Tools:
  <hr/>
