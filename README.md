@@ -8,5 +8,8 @@ things to do in (JULY 2023 - JULY 2024) :-
 - ~~get an apple watch(done)~~
 - ~~try to get into nights and weekend BuildSpace(done)~~
 - ~~travel more (travelling)~~
+- - ~~Attend ETH india~~
+- build something in Remotion  
+
 - connect with new people (this one is hard) 
   
