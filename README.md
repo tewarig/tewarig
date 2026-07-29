@@ -54,9 +54,26 @@ Things I'm chipping away at. Some of these have been "ongoing" for a while, whic
 
 </details>
 
+
 ---
-
-
+ 
+### Things I use and actively recommend
+ 
+Not sponsored, not affiliate links — I just think these are worth your money and attention.
+ 
+- **[Claude Code](https://docs.claude.com/en/docs/claude-code/overview)** — agentic coding in the terminal. Changed how I approach large, boring refactors more than any tool in years.
+- **[Cursor](https://cursor.com)** — still my daily editor for everything that isn't a terminal-shaped problem.
+- **[Wispr Flow](https://wisprflow.ai)** — voice dictation that's actually accurate. I now talk far more of my writing than I type.
+- **[Rise](https://www.risescience.com)** — sleep debt and circadian tracking. Made me stop treating sleep as the variable I could always sacrifice.
+<!-- Add any principles / opinions you want to put on record here. -->
+ 
+### The 5% thing
+ 
+I set aside **5% of my earnings** for donations and sponsorships — mostly open-source maintainers and people quietly building useful things without an audience yet.
+ 
+If that's you, reach out.
+ 
+---
 
 
 ### Say hi
