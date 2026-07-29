@@ -1,15 +1,69 @@
-hi, this is GAURAV TEWARI  from Haldwani, Nainital 
-23 B.tech grad from GEU.
-things to do in (JULY 2023 - DEC 2024) :- 
-- contribute to open source (on going)
-- write a few good blogs (on going )
-- build some cool stuff (on going)
-- foucs on physical fitness (on going)
-- ~~get an apple watch(done)~~
-- ~~try to get into nights and weekend BuildSpace(done)~~
-- ~~travel more (travelling)~~
-- - ~~Attend ETH india~~
-- build something in Remotion  
+# Hi, I'm Gaurav Tewari 👋
 
-- connect with new people (this one is hard) 
-  
+Frontend engineer, currently building observability tooling at **[SigNoz](https://signoz.io)** — open-source APM on ClickHouse.
+Haldwani, Nainital / Bengaluru · B.Tech, Graphic Era University '23
+
+---
+
+### What I'm working on
+
+- 🔭 Frontend for **LLM Observability** at SigNoz — dashboards, query builders, and the unglamorous plumbing that makes traces readable
+- ⏮️ Previously, I have worked at Razorpay in their design system team [Blade](https://github.com/razorpay/blade) and at Procol as a software engineer. 
+- ✍️ Writing about observability from the frontend side of the fence — OpenTelemetry, browser telemetry, and why frontend engineers should care
+- 🎤 Speaking when I get the chance — most recently on frontend observability at **React Nexus 2026**
+- 🌱 Still figuring out Remotion, still trying to talk to more people
+
+### Tools I reach for
+
+<p>
+  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+  <img alt="Zustand" src="https://img.shields.io/badge/Zustand-433E38?style=flat-square" />
+  <img alt="React Query" src="https://img.shields.io/badge/React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" />
+  <img alt="ClickHouse" src="https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black" />
+  <img alt="OpenTelemetry" src="https://img.shields.io/badge/OpenTelemetry-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" />
+  <img alt="Playwright" src="https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white" />
+</p>
+
+---
+
+### The list
+
+Things I'm chipping away at. Some of these have been "ongoing" for a while, which I've decided is fine.
+
+- [x] Contribute to open source
+- [ ] Write a few good blogs
+- [ ] Build some cool stuff
+- [ ] Stay consistent with physical fitness
+- [ ] Build something in [Remotion](https://www.remotion.dev/)
+- [ ] Connect with new people *(this one is hard)*
+
+<details>
+<summary><b>Archive — July 2023 → Dec 2024</b></summary>
+
+<br>
+
+- [x] Get an Apple Watch
+- [x] Get into Buildspace Nights & Weekends
+- [x] Travel more
+- [x] Attend ETHIndia
+- [ ] Contribute to open source → *still going*
+- [ ] Write a few good blogs → *still going*
+- [ ] Build some cool stuff → *still going*
+- [ ] Focus on physical fitness → *still going*
+
+</details>
+
+---
+
+### Writing
+
+<!-- Swap these for your actual posts -->
+- [Frontend Observability: What It Is and Why You Should Care](#)
+- [Post title](#)
+
+### Say hi
+
+I'm easiest to reach on [X](https://x.com/OyeTewari) or [LinkedIn](https://in.linkedin.com/in/01gauravtewari). Always up for a conversation about frontend, observability, or whatever you're building.
+
+<!-- -->
