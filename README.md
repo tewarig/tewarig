@@ -56,11 +56,8 @@ Things I'm chipping away at. Some of these have been "ongoing" for a while, whic
 
 ---
 
-### Writing
 
-<!-- Swap these for your actual posts -->
-- [Frontend Observability: What It Is and Why You Should Care](#)
-- [Post title](#)
+
 
 ### Say hi
 
